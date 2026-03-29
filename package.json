@@ -338,7 +338,7 @@
     "tslint": "^5.11.0",
     "typescript": "^2.7.2",
     "vscode": "^1.1.26",
-    "webpack": "^4.30.0",
+    "webpack": "^5.105.4",
     "webpack-cli": "^3.3.0"
   },
   "dependencies": {
